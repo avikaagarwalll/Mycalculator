@@ -8,10 +8,11 @@ public class maincalc {
 		int sum = obj.addition(67,34);
 		int sub= obj.substraction(78,45);
 		int mul = obj.multiplication(67, 5);
-		
+		int div = obj.divide(14, 7);
 		System.out.println(sum);
 		System.out.println(sub);	
         System.out.println(mul);
+        System.out.println(div);
 	}
 }
 	
